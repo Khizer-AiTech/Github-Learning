@@ -1,0 +1,68 @@
+ 
+   3 git init                                                                                                           
+   4 cd Github-Devops                                                                                                   
+   5 git init                                                                                                           
+   6 git status                                                                                                         
+   7 rm python.py                                                                                                       
+   8 git status                                                                                                         
+   9 git add testing.py                                                                                                 
+  10 git status                                                                                                         
+  11 git rm --cache testing.py                                                                                                                                                                                                                                                                                 
+  23 git status                                                                                                         
+  24 git add testing.py                                                                                                 
+  25 git commit -m "python prog"                                                                                        
+  26 git status                                                                                                         
+                                                                                                          
+  28 clear                                                                                                              
+  29 ls                                                                                                                 
+  30 rm testing.py                                                                                                      
+  31 git status                                                                                                         
+  32 ls                                                                                                                 
+  33 git restore testing.py                                                                                             
+  34 ls                                                                                                                 
+  35 git status                                                                                                         
+  36 ls -a                                                                                                              
+  37 ls                                                                                                                 
+  38 clear                                                                                                              
+  39 ls                                                                                                                 
+  40 rm testing.py                                                                                                      
+  41 ls                                                                                                                 
+                                                                                            
+  43 git restore testing.py                                                                                             
+  44 git status                                                                                                         
+  45 ls                                                                                                                 
+  46 rm testing.py                                                                                                      
+  47 ls                                                                                                                 
+  48 git restore testing.py                                                                                             
+  49 ls                                                                                                                 
+  50 rm testing.py                                                                                                      
+  51 ls                                                                                                                 
+  52 git restore testing.py                                                                                             
+  53 ls                                                                                                                 
+  54 git push                                                                                                           
+  55 git push testing.py                                                                                                
+  56 git status                                                                                                         
+  57 git remote add origin https://github.com/Khizer-AiTech/Github-Learning.git                                         
+  58 git status                                                                                                         
+  59 git push -u origin main                                                                                            
+  60 git remote -v                                                                                                      
+  61 git remote set-url origin
+    62 git remote -v                                                                                                      
+  63 git push origin master                                                                                             
+  64 git status                                                                                                         
+  65 mkdir shubham                                                                                                      
+  66 ls                                                                                                                 
+  67 cd shubham                                                                                                         
+  68 https://github.com/LondheShubham153/tws-portfolio.git                                                              
+  69 git clone https://github.com/LondheShubham153/tws-portfolio.git                                                    
+  70 ls                                                                                                                 
+  71 cd ../                                                                                                             
+  72 ls                                                                                                                 
+  73 git branch dev                                                                                                     
+  74 ls                                                                                                                 
+  75 git log                                                                                                            
+  76 git log                                                                                                            
+  77 git log --oneline                                                                                                  
+  78 git switch dev                                                                                                     
+  79 ls                                                                                                                 
+  80 git branch   
